@@ -52,9 +52,7 @@ Le programme collecte plusieurs informations sur ton ordinateur et ton navigateu
 
 ### Première connexion (création de l'empreinte) 
 
-============================================================
 🆔 Detecteur d'Empreinte Digitale du Navigateur
-============================================================
 
 📊 Analyse de ton navigateur et systeme...
 
@@ -69,9 +67,7 @@ Le programme collecte plusieurs informations sur ton ordinateur et ton navigateu
 
 🔑 Empreinte unique : 8f4e2a1c7b3d9e5f6a2c8b4d...
 
-============================================================
 🔐 SIMULATION D'AUTHENTIFICATION
-============================================================
 
 👤 Entre ton nom d'utilisateur : Test
 
